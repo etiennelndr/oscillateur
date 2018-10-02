@@ -1,0 +1,1 @@
+Amplitude_x : 1 Frequence_x : 2 Phase_x : 1 Amplitude_y : 1 Frequence_y : 3 Phase_y : 3

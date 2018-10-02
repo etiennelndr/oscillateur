@@ -1,0 +1,8 @@
+*Entry.relief: raised
+*Entry.background: light yellow
+*x.background: light green
+*Scale.background: blue
+*p_x.background: red
+*f_x.background: green
+*p_y.background: red
+*f_y.background: green
